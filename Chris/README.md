@@ -17,6 +17,11 @@
 | Synology Drive | Package Center | N/A |
 | USB Copy | Package Center | N/A |
 
+### Want to Add
+
+- Pi hole
+- Transmission through VPN (NordVPN)
+
 ## Configurations
 
 | Configuration | Link |
