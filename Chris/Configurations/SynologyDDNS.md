@@ -17,3 +17,4 @@
     - Status should return `Normal` if your hostname hasn't been taken
   - Check the box
   - OK
+- Accept the certificate for Let's Encrypt
