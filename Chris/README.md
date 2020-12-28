@@ -33,6 +33,7 @@
 
 ### Want to Add
 
+- Backups for windows machine and mac
 - Pi hole
 - Transmission through VPN (NordVPN)
   - [Image](https://github.com/haugene/docker-transmission-openvpn)
