@@ -1,5 +1,11 @@
 # Chris's NAS
 
+- [Chris's NAS](#chriss-nas)
+  - [Hardware](#hardware)
+  - [Installations](#installations)
+    - [Want to Add](#want-to-add)
+  - [Configurations](#configurations)
+
 ## Hardware
 
 | Hardware | Quantity | Product Link | Other Links |
