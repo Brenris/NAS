@@ -10,8 +10,8 @@ Have the photo station backup new photos from my phone. Only when I'm home, thro
 
 In the moments app:
 
-# Click on Settings
-# Shared Photo Library Tab
-# Enable
+- Click on Settings
+- Shared Photo Library Tab
+- Enable
 
 

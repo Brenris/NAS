@@ -29,6 +29,7 @@
 | :------------ | :--- |
 | Calibre | [Setup]() |
 | Plex | [Setup](/Chris/Installations/Plex.md) |
+| Synology DDNS | [Configuration](/Chris/Configurations/SynologyDDNS.md) |
 
 ## Modifications
 
