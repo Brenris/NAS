@@ -22,8 +22,11 @@
 - Pi hole
 - Transmission through VPN (NordVPN)
   - [Image](https://github.com/haugene/docker-transmission-openvpn)
-- Ubooquity
-  - [Image](https://hub.docker.com/r/linuxserver/ubooquity)
+- Comics
+  - Ubooquity
+    - [Image](https://hub.docker.com/r/linuxserver/ubooquity)
+  - Komga
+    - [Repo](https://github.com/gotson/komga)
 
 ## Configurations
 
