@@ -33,4 +33,4 @@
 
 | Mod | Hardware| Link |
 | :-- | :------ | :--- |
-| RAM | [Samsung 16 GB RAM](https://www.newegg.com/samsung-16gb-260-pin-ddr4-so-dimm/p/1B4-001D-005D9) | N/A |
+| RAM | [Samsung 16 GB RAM](https://www.newegg.com/samsung-16gb-260-pin-ddr4-so-dimm/p/1B4-001D-005D9) <br /> [Reddit Thread](https://www.reddit.com/r/synology/comments/goidix/good_news_ds920_supports_16gb_ddr4_ram_for_20gb/) | N/A |
