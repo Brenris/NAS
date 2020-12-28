@@ -1,4 +1,12 @@
-# Chris's NAS Configuration and Installations
+# Chris's NAS
+
+## Hardware
+
+| Hardware | Quantity | Product Link | Other Links |
+| :------- | :------- | :----------- | :---------- |
+| Synology NAS DS920+ | 1 | [DS920+](https://www.synology.com/en-us/products/DS920+) <br/> [Documents](https://www.synology.com/en-us/support/download/DS920+#docs) | N/A |
+| Western Digital 8TB WD Red Pro | 2 | [Amazon](https://www.amazon.com/Western-Digital-Internal-Hard-Drive/dp/B07D3N95GS?th=1) <br/> [Western Digital](https://shop.westerndigital.com/products/internal-drives/wd-red-pro-sata-hdd#WD8003FFBX) | N/A |
+| Samsung 16GB RAM | 1 | [Samsung 16 GB RAM](https://www.newegg.com/samsung-16gb-260-pin-ddr4-so-dimm/p/1B4-001D-005D9) <br /> [Reddit Thread](https://www.reddit.com/r/synology/comments/goidix/good_news_ds920_supports_16gb_ddr4_ram_for_20gb/) | N/A |
 
 ## Installations
 
@@ -27,6 +35,7 @@
     - [Image](https://hub.docker.com/r/linuxserver/ubooquity)
   - Komga
     - [Repo](https://github.com/gotson/komga)
+- VPN
 
 ## Configurations
 
@@ -35,9 +44,3 @@
 | Calibre | [Setup]() |
 | Plex | [Setup](/Chris/Installations/Plex.md) |
 | Synology DDNS | [Configuration](/Chris/Configurations/SynologyDDNS.md) |
-
-## Modifications
-
-| Mod | Hardware| Link |
-| :-- | :------ | :--- |
-| RAM | [Samsung 16 GB RAM](https://www.newegg.com/samsung-16gb-260-pin-ddr4-so-dimm/p/1B4-001D-005D9) <br /> [Reddit Thread](https://www.reddit.com/r/synology/comments/goidix/good_news_ds920_supports_16gb_ddr4_ram_for_20gb/) | N/A |
