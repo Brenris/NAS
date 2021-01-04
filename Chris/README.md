@@ -38,11 +38,21 @@
 - Transmission through VPN (NordVPN)
   - [Image](https://github.com/haugene/docker-transmission-openvpn)
 - Comics
+  - Add Comics metadata plugin for Calibre
   - Ubooquity
     - [Image](https://hub.docker.com/r/linuxserver/ubooquity)
   - Komga
     - [Repo](https://github.com/gotson/komga)
 - VPN
+  - Need to add docs
+- Backblaze Backup
+- Audiobook setup
+  - [Link](https://forums.plex.tv/t/audiobook-guide/205963/3)
+  - [Link](https://forums.plex.tv/t/how-do-i-set-up-files-etc-for-audiobooks-in-plex/530837/4)
+  - [Link](https://9to5mac.com/2020/09/06/plex-audiobooks/)
+  - Tools
+    - [Audiobook Builder](https://www.splasm.com/audiobookbuilder/)
+    - [Kid3](https://kid3.kde.org/)
 
 ## Configurations
 
