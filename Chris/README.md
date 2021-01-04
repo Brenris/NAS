@@ -47,6 +47,7 @@
   - Need to add docs
 - Backblaze Backup
 - Audiobook setup
+  - [Link](https://www.reddit.com/r/PrologueApp/comments/dn0qlp/is_there_a_prologueapp_guide_to_setting_up_an/)
   - [Link](https://forums.plex.tv/t/audiobook-guide/205963/3)
   - [Link](https://forums.plex.tv/t/how-do-i-set-up-files-etc-for-audiobooks-in-plex/530837/4)
   - [Link](https://9to5mac.com/2020/09/06/plex-audiobooks/)
