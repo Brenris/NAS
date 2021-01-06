@@ -34,15 +34,20 @@
 ### Want to Add
 
 - Backups for windows machine and mac
+- Reverse Proxy
+  - [Link](https://www.grahamleggat.com/blog/2017/8/21/synology-reverse-proxy-server)
+- Portainer
+  - [Link](https://mariushosting.com/how-to-install-portainer-on-your-synology-nas/)
+- Watchtower Docker
+  - [Link](https://mariushosting.com/synology-30-second-watchtower-install-using-task-scheduler-docker/)
 - Pi hole
 - Transmission through VPN (NordVPN)
   - [Image](https://github.com/haugene/docker-transmission-openvpn)
 - Comics
-  - Add Comics metadata plugin for Calibre
   - Ubooquity
     - [Image](https://hub.docker.com/r/linuxserver/ubooquity)
-  - Komga
-    - [Repo](https://github.com/gotson/komga)
+  - Panels
+    - OPDS -> Ubooquity hosted
 - VPN
   - Need to add docs
 - Backblaze Backup
