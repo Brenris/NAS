@@ -16,11 +16,12 @@
 
 ## Installations
 
+Applications I've installed through package center on my NAS.
+
 | Application | Installation | Link |
 | :---------- | :----------- | :--- |
 | Antivirus Essentials | Package Center | N/A |
 | Audio Station | Package Center | N/A |
-| Calibre | Docker | [Setup]() |
 | Cloud Backup | Package Center | [Setup](/Chris/Installations/CloudBackup.md) |
 | Docker | Package Center | N/A |
 | File Station | Package Center | N/A |
@@ -30,6 +31,15 @@
 | Photo Station | Package Center | [Setup](/Chris/Installations/Photos.md) |
 | Synology Drive | Package Center | N/A |
 | USB Copy | Package Center | N/A |
+
+## Docker Containers
+
+Containers I've set up on my NAS, to enabled SSH follow this [guide](https://chrisotto.dev/ssh-synology-nas/).
+
+| Application | Purpose | Link |
+| :---------- | :------ | :--- |
+| Portainer | Docker Container Manager | [Setup](https://chrisotto.dev/portainer-docker-nas) |
+| Calibre | E-Books Library Manager | [Setup](https://chrisotto.dev/) |
 
 ### Want to Add
 
