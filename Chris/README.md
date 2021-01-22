@@ -3,7 +3,8 @@
 - [Chris's NAS](#chriss-nas)
   - [Hardware](#hardware)
   - [Installations](#installations)
-    - [Want to Add](#want-to-add)
+  - [Docker Containers](#docker-containers)
+  - [Want to Add](#want-to-add)
   - [Configurations](#configurations)
 
 ## Hardware
@@ -41,7 +42,7 @@ Containers I've set up on my NAS, to enabled SSH follow this [guide](https://chr
 | Portainer | Docker Container Manager | [Setup](https://chrisotto.dev/portainer-docker-nas) |
 | Calibre | E-Books Library Manager | [Setup](https://chrisotto.dev/) |
 
-### Want to Add
+## Want to Add
 
 - Backups for windows machine and mac
 - Pi hole
