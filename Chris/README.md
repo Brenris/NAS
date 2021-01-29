@@ -39,13 +39,13 @@ Containers I've set up on my NAS, to enabled SSH follow this [guide](https://chr
 
 | Application | Purpose | Link |
 | :---------- | :------ | :--- |
-| Portainer | Docker Container Manager | [Setup](https://chrisotto.dev/portainer-docker-nas) |
 | Calibre | E-Books Library Manager | [Setup](https://chrisotto.dev/) |
+| Pi-hole | DNS Request Blocker | [Setup](https://chrisotto.dev/pihole-docker-nas) |
+| Portainer | Docker Container Manager | [Setup](https://chrisotto.dev/portainer-docker-nas) |
 
 ## Want to Add
 
 - Backups for windows machine and mac
-- Pi hole
 - Transmission through VPN (NordVPN)
   - [Image](https://github.com/haugene/docker-transmission-openvpn)
 - Comics
