@@ -39,7 +39,7 @@ Containers I've set up on my NAS, to enabled SSH follow this [guide](https://chr
 
 | Application | Purpose | Link |
 | :---------- | :------ | :--- |
-| Calibre | E-Books Library Manager | [Setup](https://chrisotto.dev/) |
+| Calibre | E-Books Library Manager | [Setup](https://chrisotto.dev/calibre-library-docker-nas/) |
 | Pi-hole | DNS Request Blocker | [Setup](https://chrisotto.dev/pihole-docker-nas) |
 | Portainer | Docker Container Manager | [Setup](https://chrisotto.dev/portainer-docker-nas) |
 
