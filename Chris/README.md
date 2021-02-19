@@ -42,19 +42,13 @@ Containers I've set up on my NAS, to enabled SSH follow this [guide](https://chr
 | Calibre | E-Books Library Manager | [Setup](https://chrisotto.dev/calibre-library-docker-nas/) |
 | Pi-hole | DNS Request Blocker | [Setup](https://chrisotto.dev/pihole-docker-nas) |
 | Portainer | Docker Container Manager | [Setup](https://chrisotto.dev/portainer-docker-nas) |
+| Watchtower | Image Updater For Docker Containers | [Setup](https://chrisotto.dev/watchtower-docker-nas)
 
 ## Want to Add
 
 - Backups for windows machine and mac
 - Reverse Proxy
   - [Link](https://www.grahamleggat.com/blog/2017/8/21/synology-reverse-proxy-server)
-- Portainer
-  - [Link](https://mariushosting.com/how-to-install-portainer-on-your-synology-nas/)
-- Watchtower Docker
-  - [Link](https://mariushosting.com/synology-30-second-watchtower-install-using-task-scheduler-docker/)
-- Pi hole
-- Transmission through VPN (NordVPN)
-  - [Image](https://github.com/haugene/docker-transmission-openvpn)
 - Comics
   - Ubooquity
     - [Image](https://hub.docker.com/r/linuxserver/ubooquity)
