@@ -3,7 +3,8 @@
 - [Chris's NAS](#chriss-nas)
   - [Hardware](#hardware)
   - [Installations](#installations)
-    - [Want to Add](#want-to-add)
+  - [Docker Containers](#docker-containers)
+  - [Want to Add](#want-to-add)
   - [Configurations](#configurations)
 
 ## Hardware
@@ -16,11 +17,12 @@
 
 ## Installations
 
+Applications I've installed through package center on my NAS.
+
 | Application | Installation | Link |
 | :---------- | :----------- | :--- |
 | Antivirus Essentials | Package Center | N/A |
 | Audio Station | Package Center | N/A |
-| Calibre | Docker | [Setup]() |
 | Cloud Backup | Package Center | [Setup](/Chris/Installations/CloudBackup.md) |
 | Docker | Package Center | N/A |
 | File Station | Package Center | N/A |
@@ -31,7 +33,17 @@
 | Synology Drive | Package Center | N/A |
 | USB Copy | Package Center | N/A |
 
-### Want to Add
+## Docker Containers
+
+Containers I've set up on my NAS, to enabled SSH follow this [guide](https://chrisotto.dev/ssh-synology-nas/).
+
+| Application | Purpose | Link |
+| :---------- | :------ | :--- |
+| Calibre | E-Books Library Manager | [Setup](https://chrisotto.dev/calibre-library-docker-nas/) |
+| Pi-hole | DNS Request Blocker | [Setup](https://chrisotto.dev/pihole-docker-nas) |
+| Portainer | Docker Container Manager | [Setup](https://chrisotto.dev/portainer-docker-nas) |
+
+## Want to Add
 
 - Backups for windows machine and mac
 - Reverse Proxy
